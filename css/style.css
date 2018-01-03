@@ -1,0 +1,8 @@
+body {background-color:#08231C; margin: 0} /*Зададим цвет фона, уберем отступы со всех сторон margin: 0 */
+table{width: 1024px; height: 1000px; margin: 0 auto; background-color: white;}/* Зададим ширину и высоту и выровняем поцентру с универсаного параметра margin: 0 auto; и зададим фон таблице*/
+#RSB {width: 300px; height: 300px; border: 1px solid #BCBCBC;}
+#RSB_two {width: 300px; height: 300px; border: 1px solid #BCBCBC;}
+img {width: 1024px; height: 400px;} /*Назначаем размер для картинки */
+#CSB {padding: 10px; vertical-align: top;} /*Задает отстум 10px со всех сторон(Внутри td), выравниваем техт по вертикали вверх vertical-align: top; */
+
+
